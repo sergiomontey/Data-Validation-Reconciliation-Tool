@@ -756,7 +756,7 @@ Interested in using this for production or commercial purposes?
 
 <div align="center">
 
-<img width="468" alt="MonteyAI ETL Tools" src="https://github.com/user-attachments/assets/6b8cb8a2-a4b9-4dfe-9287-14693c2a6380" />
+
 
 </div>
 
